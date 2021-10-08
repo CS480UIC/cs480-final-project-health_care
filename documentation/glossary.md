@@ -45,3 +45,20 @@ Synonyms: division, sector, wing
 Description: Department is the different type of departments that a hospital has like ER department, ICU department, etc.. for different types of treatments that are provided to the patient based on their medical conditions. 
 One department has one or more than one doctor that belongs to that department. 
 
+Entity Name: Insurance
+
+Synonyms: Coverage, Policy
+
+Description: The health insurance ID card serves as confirmation of coverage. When you go to the doctor, hospital, or other provider, you utilize it. Health Insurance card
+can assist one in planning healthcare costs and receiving the required treatment. The patient presents their insurance card to the doctor or hospital, and the bill/claim is 
+first submitted to the insurance company so that they may cover their portion of the cost. The patient's name must be on the insurance card. There has to be one insurance for
+every patient.
+
+Entity Name: Room
+
+Synonyms: ER room, Ward
+
+Description: Depending on the sort of care required, the patient is admitted to a ward or an emergency room. Before a room is assigned, the patient is diagnosed by the nurse
+and doctor, and then a decision is taken as to whether the patient needs to be admitted and what sort of room is required. Every patient can have zero or one room and every
+room can have zero or one patient.
+
