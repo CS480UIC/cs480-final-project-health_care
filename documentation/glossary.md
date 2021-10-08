@@ -32,3 +32,16 @@ will be provided untill cured.
 There can be one or more patients treated by one or more doctors for multiple health conditions at a given instant.
 One patient can recieve one or more bills.
 One patient can make zero or more payments.
+
+Entity Name: Prescription 
+
+Synonyms: remedy, drugs, prescript
+Description: Prescription is prescribed by the doctor when a patient needs medications to cure themselves. 
+There can be only one prescription generated for one patient because it depends on the medications that a person needs based on his/her sickness. 
+
+Entity Name: Department
+
+Synonyms: division, sector, wing
+Description: Department is the different type of departments that a hospital has like ER department, ICU department, etc.. for different types of treatments that are provided to the patient based on their medical conditions. 
+One department has one or more than one doctor that belongs to that department. 
+
