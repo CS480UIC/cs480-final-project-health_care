@@ -31,20 +31,23 @@
   </head>
   
   <body>
-<h1 style="text-align: center;">Sanket Patel</h1>
+<h1 style="text-align: center;">Health Care</h1>
 <div style="font-size: 10pt;">
 	<c:choose>
 		<c:when test="${empty sessionScope.session_user }">
 			<a href="<c:url value='/jsps/user/login.jsp'/>" target="_parent">Login</a> |&nbsp; 
 			<a href="<c:url value='/jsps/user/regist.jsp'/>" target="_parent">Register</a> |&nbsp; 
-	
+			
+			
 		</c:when>
 		<c:otherwise>
 			Hello：${sessionScope.session_user.username };
-			<a href="<c:url value='/jsps/user/queries.jsp'/>" target="body">Query Result</a> |&nbsp;&nbsp;
-			<a href="<c:url value='/UserServletLogout'/>" target="_parent">Logout</a> |&nbsp; 
-			<a href="<c:url value='/jsps/entity1/menu.jsp'/>" target="body">CRUD entity 1</a> |&nbsp;&nbsp;
-
+			<a href="<c:url value='/UserServletLogout'/>" target="_parent">Logout</a>
+			<br>
+			<a href="<c:url value='/jsps/Doctor/Doctor_menu.jsp'/>" target="body">Doctor</a> |&nbsp;&nbsp;
+			<a href="<c:url value='/jsps/Patient/Patient_menu.jsp'/>" target="body">Patient</a> |&nbsp;&nbsp;
+			<a href="<c:url value='/jsps/user/queries.jsp'/>" target="body">Query Result</a>
+			
 		</c:otherwise>
 	</c:choose>
 
