@@ -19,6 +19,18 @@ Sneh Patel Pictures for Entities Doctor and Patient
 <img width="1440" alt="Screen Shot 2021-10-28 at 6 22 38 PM" src="https://user-images.githubusercontent.com/77854715/139349761-a24a9f6e-1ed0-4365-9a88-818dac8f145b.png">
 <img width="1440" alt="Screen Shot 2021-10-28 at 6 22 43 PM" src="https://user-images.githubusercontent.com/77854715/139349770-43a41622-06a4-4758-8af3-7629d6e081a5.png">
 <img width="1440" alt="Screen Shot 2021-10-28 at 6 22 48 PM" src="https://user-images.githubusercontent.com/77854715/139349778-a20f73eb-4f94-4cbf-b51f-7559c1f78c87.png">
+Sanket Patel Pictures for Entities Prescription and Bill
+<img width="1440" alt="Screen Shot 2021-10-28 at 6 50 15 PM" src="https://user-images.githubusercontent.com/59983795/139351773-3c9196f9-887d-45f1-a05b-fe800050c4ab.png">
+<img width="1440" alt="Screen Shot 2021-10-28 at 6 49 11 PM" src="https://user-images.githubusercontent.com/59983795/139351775-bc57f268-9c7c-4b3e-a265-14177dfa27d4.png">
+<img width="1440" alt="Screen Shot 2021-10-28 at 6 48 25 PM" src="https://user-images.githubusercontent.com/59983795/139351776-4a2d7d2c-76e0-4732-ac9c-0ee2cd5bd761.png">
+<img width="1440" alt="Screen Shot 2021-10-28 at 6 48 32 PM" src="https://user-images.githubusercontent.com/59983795/139351777-b932f54b-3da0-491d-a92d-2773491f79ac.png">
+<img width="1440" alt="Screen Shot 2021-10-28 at 6 49 18 PM" src="https://user-images.githubusercontent.com/59983795/139351779-321b6cff-95ce-43c1-8d1f-852f78f2cf4b.png">
+<img width="1440" alt="Screen Shot 2021-10-28 at 6 48 40 PM" src="https://user-images.githubusercontent.com/59983795/139351780-2d4201a6-414f-4d78-809d-01dabb9cbbd3.png">
+<img width="1440" alt="Screen Shot 2021-10-28 at 6 48 46 PM" src="https://user-images.githubusercontent.com/59983795/139351782-a57a8bff-9220-48f0-ac23-deb5098b8605.png">
+<img width="1440" alt="Screen Shot 2021-10-28 at 6 49 30 PM" src="https://user-images.githubusercontent.com/59983795/139351786-34346f62-9b71-4ddb-8600-220965892ce6.png">
+<img width="1440" alt="Screen Shot 2021-10-28 at 6 48 53 PM" src="https://user-images.githubusercontent.com/59983795/139351787-25ff2213-598c-4391-b980-cf134debd6bb.png">
+<img width="1440" alt="Screen Shot 2021-10-28 at 6 49 42 PM" src="https://user-images.githubusercontent.com/59983795/139351788-99f4d684-2e71-4cf2-b094-44a7ce92bd93.png">
+
 
 
 
