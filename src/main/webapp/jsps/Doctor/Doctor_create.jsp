@@ -23,13 +23,16 @@
   <body>
   <h1>Create Doctor</h1>
 <form action="<c:url value='/Entity1ServletCreate'/>" method="post">
-	User    :<input type="text" name="username" value="${form.username }"/>
+	Doctor ID    :<input type="text" name="Doctor ID" value="${form.username }"/>
 	<span style="color: red; font-weight: 900">${errors.username }</span>
 	<br/>
-	Password：<input type="password" name="password" value="${form.password }"/>
+	Name：<input type="text" name="Name" value="${form.password }"/>
 	<span style="color: red; font-weight: 900">${errors.password }</span>
 	<br/>
-	Email	：<input type="text" name="email" value="${form.email }"/>
+	Gender	：<input type="text" name="Gender" value="${form.email }"/>
+	<span style="color: red; font-weight: 900">${errors.email }</span>
+	<br/>
+	Age	：<input type="text" name="Age" value="${form.email }"/>
 	<span style="color: red; font-weight: 900">${errors.email }</span>
 	<br/>
 	<input type="submit" value="Create Doctor"/>

@@ -24,11 +24,17 @@
   <h1>Read Entity Output</h1>
 <p style="color: red; font-weight: 900">${msg }</p>
 <form>
-	User    :<input type="text" name="username" value="${entity1.username }" disabled/>
+	Doctor ID    :<input type="text" name="Doctor ID" value="${form.username }"/>
+	<span style="color: red; font-weight: 900">${errors.username }</span>
 	<br/>
-	Password：<input type="text" name="password" value="${entity1.password }" disabled/>
+	Name：<input type="text" name="Name" value="${form.password }"/>
+	<span style="color: red; font-weight: 900">${errors.password }</span>
 	<br/>
-	Email	：<input type="text" name="email" value="${entity1.email }" disabled/>
+	Gender	：<input type="text" name="Gender" value="${form.email }"/>
+	<span style="color: red; font-weight: 900">${errors.email }</span>
+	<br/>
+	Age	：<input type="text" name="Age" value="${form.email }"/>
+	<span style="color: red; font-weight: 900">${errors.email }</span>
 	<br/>
 </form>
 
