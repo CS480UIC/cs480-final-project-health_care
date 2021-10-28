@@ -46,7 +46,9 @@
 			<br>
 			<a href="<c:url value='/jsps/Doctor/Doctor_menu.jsp'/>" target="body">Doctor</a> |&nbsp;&nbsp;
 			<a href="<c:url value='/jsps/Patient/Patient_menu.jsp'/>" target="body">Patient</a> |&nbsp;&nbsp;
-			<a href="<c:url value='/jsps/user/queries.jsp'/>" target="body">Query Result</a>
+			<a href="<c:url value='/jsps/Prescription/Prescription_menu.jsp'/>" target="body">Prescription</a> |&nbsp;&nbsp;
+			<a href="<c:url value='/jsps/Bill/Bill_menu.jsp'/>" target="body">Bill</a> |&nbsp;&nbsp;
+		
 			
 		</c:otherwise>
 	</c:choose>

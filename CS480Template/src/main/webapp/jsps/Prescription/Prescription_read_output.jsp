@@ -21,7 +21,7 @@
   </head>
   
   <body>
-  <h1>Read Entity Output</h1>
+  <h1>Read Prescription Output</h1>
 <p style="color: red; font-weight: 900">${msg }</p>
 <form>
 	User    :<input type="text" name="username" value="${entity1.username }" disabled/>
