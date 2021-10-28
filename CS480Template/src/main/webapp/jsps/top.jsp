@@ -48,7 +48,8 @@
 			<a href="<c:url value='/jsps/Patient/Patient_menu.jsp'/>" target="body">Patient</a> |&nbsp;&nbsp;
 			<a href="<c:url value='/jsps/Prescription/Prescription_menu.jsp'/>" target="body">Prescription</a> |&nbsp;&nbsp;
 			<a href="<c:url value='/jsps/Bill/Bill_menu.jsp'/>" target="body">Bill</a> |&nbsp;&nbsp;
-		
+			<a href="<c:url value='/jsps/Department/Department_menu.jsp'/>" target="body">Department</a> |&nbsp;&nbsp;
+			<a href="<c:url value='/jsps/Payment/Payment_menu.jsp'/>" target="body">Payment</a> |&nbsp;&nbsp;
 			
 		</c:otherwise>
 	</c:choose>

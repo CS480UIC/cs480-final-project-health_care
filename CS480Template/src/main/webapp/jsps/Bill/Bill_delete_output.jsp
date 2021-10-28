@@ -33,7 +33,7 @@
 	<br/>
 	Email	：<input type="text" name="email" value="${entity1.email }" disabled/>
 	<br/>
-	<input type="submit" value="Delete Prescription"/>
+	<input type="submit" value="Delete Bill"/>
 </form>
 
 </body>
