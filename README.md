@@ -30,11 +30,17 @@ Sanket Patel Pictures for Entities Prescription and Bill
 <img width="1440" alt="Screen Shot 2021-10-28 at 6 49 30 PM" src="https://user-images.githubusercontent.com/59983795/139351786-34346f62-9b71-4ddb-8600-220965892ce6.png">
 <img width="1440" alt="Screen Shot 2021-10-28 at 6 48 53 PM" src="https://user-images.githubusercontent.com/59983795/139351787-25ff2213-598c-4391-b980-cf134debd6bb.png">
 <img width="1440" alt="Screen Shot 2021-10-28 at 6 49 42 PM" src="https://user-images.githubusercontent.com/59983795/139351788-99f4d684-2e71-4cf2-b094-44a7ce92bd93.png">
-
-
-
-
-
+Shail Desai Pictures for Entities Insurance and Room
+<img width="960" alt="Screenshot 2021-10-28 203251" src="https://user-images.githubusercontent.com/77512752/139359953-7b5c8705-4d96-4ca8-b8c6-5eb4efb22607.png">
+<img width="960" alt="Screenshot 2021-10-28 203405" src="https://user-images.githubusercontent.com/77512752/139359958-e521217d-39c6-4694-a4d6-d1c5298c2cb4.png">
+<img width="960" alt="Screenshot 2021-10-28 203458" src="https://user-images.githubusercontent.com/77512752/139359970-9d0cdd7c-3449-4757-90b7-6c9f081183ee.png">
+<img width="959" alt="Screenshot 2021-10-28 203516" src="https://user-images.githubusercontent.com/77512752/139360056-a3adce74-f7b6-4b44-907c-e0941fc3879a.png">
+<img width="958" alt="Screenshot 2021-10-28 203634" src="https://user-images.githubusercontent.com/77512752/139360071-a4cae0b5-3d1b-4ee2-9b0d-18e541784fdc.png">
+<img width="959" alt="Screenshot 2021-10-28 203655" src="https://user-images.githubusercontent.com/77512752/139360081-b19ff8c7-f678-428d-8482-47e5cf85d124.png">
+<img width="958" alt="Screenshot 2021-10-28 203714" src="https://user-images.githubusercontent.com/77512752/139360094-7fe67678-93cd-4f94-85e2-60a3e02a43c1.png">
+<img width="956" alt="Screenshot 2021-10-28 203733" src="https://user-images.githubusercontent.com/77512752/139360113-50012881-ce42-49bf-b976-da206cc7bf93.png">
+<img width="956" alt="Screenshot 2021-10-28 203749" src="https://user-images.githubusercontent.com/77512752/139360130-d7f86b9f-3972-4e40-89dd-e8ae47096fd7.png">
+<img width="958" alt="Screenshot 2021-10-28 203807" src="https://user-images.githubusercontent.com/77512752/139360145-a5ab391c-8dc5-4dc1-8b38-63025848c46b.png">
 
 
 
