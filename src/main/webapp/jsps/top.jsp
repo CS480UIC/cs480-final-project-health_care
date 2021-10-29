@@ -50,6 +50,8 @@
 			<a href="<c:url value='/jsps/Bill/Bill_menu.jsp'/>" target="body">Bill</a> |&nbsp;&nbsp;
 			<a href="<c:url value='/jsps/Department/Department_menu.jsp'/>" target="body">Department</a> |&nbsp;&nbsp;
 			<a href="<c:url value='/jsps/Payment/Payment_menu.jsp'/>" target="body">Payment</a> |&nbsp;&nbsp;
+			<a href="<c:url value='/jsps/Insurance/Insurance_menu.jsp'/>" target="body">Insurance</a> |&nbsp;&nbsp;
+			<a href="<c:url value='/jsps/Room/Room_menu.jsp'/>" target="body">Room</a> |&nbsp;&nbsp;
 			
 		</c:otherwise>
 	</c:choose>
