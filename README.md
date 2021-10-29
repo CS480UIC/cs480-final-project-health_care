@@ -41,8 +41,15 @@ Shail Desai Pictures for Entities Insurance and Room
 <img width="956" alt="Screenshot 2021-10-28 203733" src="https://user-images.githubusercontent.com/77512752/139360113-50012881-ce42-49bf-b976-da206cc7bf93.png">
 <img width="956" alt="Screenshot 2021-10-28 203749" src="https://user-images.githubusercontent.com/77512752/139360130-d7f86b9f-3972-4e40-89dd-e8ae47096fd7.png">
 <img width="958" alt="Screenshot 2021-10-28 203807" src="https://user-images.githubusercontent.com/77512752/139360145-a5ab391c-8dc5-4dc1-8b38-63025848c46b.png">
-
-
-
-
+Kathan Thakkar Pictures for Entities Department and Payment
+<img width="1440" alt="Screen Shot 2021-10-28 at 8 38 02 PM" src="https://user-images.githubusercontent.com/63680947/139360293-713503d7-1284-44b8-9464-efb9408ab887.png">
+<img width="1440" alt="Screen Shot 2021-10-28 at 8 38 06 PM" src="https://user-images.githubusercontent.com/63680947/139360305-d106c353-a39b-4049-8994-0ab30f679b56.png">
+<img width="1440" alt="Screen Shot 2021-10-28 at 8 38 09 PM" src="https://user-images.githubusercontent.com/63680947/139360318-4e4c9f14-1028-45ee-adfb-582c15c8ba7c.png">
+<img width="1440" alt="Screen Shot 2021-10-28 at 8 38 13 PM" src="https://user-images.githubusercontent.com/63680947/139360333-afd87ef1-10f2-4ee0-966e-86f768dbb93d.png">
+<img width="1440" alt="Screen Shot 2021-10-28 at 8 38 17 PM" src="https://user-images.githubusercontent.com/63680947/139360370-db0f3ee5-8ba4-4207-9a5e-38f3b373d619.png">
+<img width="1440" alt="Screen Shot 2021-10-28 at 8 38 25 PM" src="https://user-images.githubusercontent.com/63680947/139360406-93a10761-99dc-4257-bbe8-da7308925d4e.png">
+<img width="1440" alt="Screen Shot 2021-10-28 at 8 38 28 PM" src="https://user-images.githubusercontent.com/63680947/139360417-fdb59acb-e408-493d-a691-e6582b70c943.png">
+<img width="1440" alt="Screen Shot 2021-10-28 at 8 38 32 PM" src="https://user-images.githubusercontent.com/63680947/139360428-30773922-5668-416f-97e3-65d81fa9f677.png">
+<img width="1440" alt="Screen Shot 2021-10-28 at 8 38 37 PM" src="https://user-images.githubusercontent.com/63680947/139360444-c1d36660-faf5-4627-b3aa-d4f7b4201876.png">
+<img width="1440" alt="Screen Shot 2021-10-28 at 8 38 41 PM" src="https://user-images.githubusercontent.com/63680947/139360455-3c3f9158-fed1-400f-99bc-2b14b25c0e80.png">
 
