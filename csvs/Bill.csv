@@ -1,0 +1,6 @@
+bill_no,patient_id,policy_num,bill_amount,amount_paid,remaining_balance
+201,1,25,1011,100,911
+202,2,26,2011,200,1811
+203,3,27,1011,100,911
+204,4,28,4011,400,3611
+205,5,29,5011,500,4511
