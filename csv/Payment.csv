@@ -1,6 +1,0 @@
-payment_no,bill_no,patient_id,payment_amount,payment_method,payment_bank
-111,201,1,1000,Credit Card,wells fargo
-112,202,2,330,Check,chase
-113,203,3,680,Cash,hdfc
-114,204,4,3000,Credit Card,american
-115,205,5,450,Cash,british

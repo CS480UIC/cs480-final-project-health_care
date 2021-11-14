@@ -1,6 +1,0 @@
-doctor_id,patient_id,dept_id,prescription_code,doctor_name,doctor_gender,doctor_age
-25,1,11,1001,Jennifer,Female,30
-26,2,12,1002,Neel,Male,28
-27,3,13,1003,Emma,Female,27
-28,4,14,1004,Alex,Male,26
-29,5,15,1005,Chris,Male,24
