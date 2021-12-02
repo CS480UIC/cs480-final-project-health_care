@@ -14,7 +14,7 @@ SELECT Count(*) FROM bill
 WHERE bill_amount > 1500;
 
 SELECT COUNT(*) FROM bill
-WHERE bill_amount <1000;
+WHERE bill_amount < 1000;
 
 SELECT patient_gender, AVG(patient_age)
 FROM patient
