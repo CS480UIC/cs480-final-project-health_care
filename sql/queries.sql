@@ -28,7 +28,7 @@ SELECT patient.patient_name, patient.payment_no, payment.payment_amount, payment
 FROM patient INNER JOIN payment
 ON patient.patient_id = payment.patient_id;
 
-SELECT doctor.doctor_name, doctor.doctor_age, patient.patient_name, patient_age, patient.patient_gender
+SELECT doctor.doctor_name, doctor.doctor_age, patient.patient_name, patient.patient_age, patient.patient_gender
 FROM doctor LEFT OUTER JOIN patient
 ON doctor.doctor_id = patient.doctor_id;
 
