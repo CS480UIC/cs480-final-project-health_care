@@ -1,0 +1,6 @@
+patient_id,doctor_id,prescripton_code,payment_no,bill_no,policy_num,room_num,patient_name,patient_gender,patient_age
+1,25,1001,111,201,25,101,priya,female,23
+2,26,2001,112,202,26,201,rohan,male,52
+3,27,3001,113,203,27,301,aryan,male,19
+4,28,4001,114,204,28,401,umang,male,28
+5,29,5001,115,205,29,501,dhruvi,female,66

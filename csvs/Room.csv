@@ -1,0 +1,6 @@
+room_num,patient_id,room_type
+101,1,ER 
+201,2,ICU
+301,3,deluxe room
+401,4,shared room
+501,5,rehab room 
