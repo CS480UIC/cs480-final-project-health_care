@@ -9,7 +9,7 @@ WHERE doctor_age >= 25;
 
 SELECT patient_name FROM patient
 WHERE policy_num = 29;
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 SELECT Count(*) FROM bill
 WHERE bill_amount > 1500;
 
@@ -23,7 +23,7 @@ HAVING AVG(patient_age) > 40;
 
 SELECT AVG(patient_age) FROM patient
 WHERE patient_gender = 'male';
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 SELECT patient.patient_name, patient.payment_no, payment.payment_amount, payment.payment_method
 FROM patient INNER JOIN payment
 ON patient.patient_id = payment.patient_id;
@@ -45,7 +45,7 @@ WHERE EXISTS
     FROM bill
     WHERE patient_id = P.patient_id
 		AND bill_amount > 2000);
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
